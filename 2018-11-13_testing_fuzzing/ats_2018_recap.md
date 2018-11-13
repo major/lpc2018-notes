@@ -62,7 +62,6 @@
 * What about variance from lab to lab?
   * Different storage/machines in each lab
   * Could skew performance results
-  *
 
 ## Links
 
